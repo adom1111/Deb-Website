@@ -1,0 +1,34 @@
+@media screen {
+    body{
+        color: rgb(110, 135, 156);
+    }
+    h1{
+        font-size: 100%;
+    }
+    p{
+        font-size: 100%;
+    }
+    .half-width{
+        width:100%;
+    }
+    .half-width img{
+        width: 100%;  
+    }
+    section{
+        height: 100%;
+    }
+    .single-experiences{
+      height: 100%;
+    }
+    img{
+    width: 100px;
+    height: 100px;
+    } 
+    h3{
+    height:100px;
+    }
+    .button{
+        height: 100px;
+        width:100px;
+    }
+}
